@@ -1,2 +1,0 @@
-# AVFD
-demo site
